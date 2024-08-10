@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CeritaKita</string>
+    <string name="title_login_page">Login to CeritaKita</string>
+    <string name="message_login_page">Login first to connect and share stories with others :D\n</string>
+    <string name="email">Your Email</string>
+    <string name="password">Your Password</string>
+    <string name="login">LOGIN</string>
+    <string name="title_welcome_page">Welcome to CeritaKita!</string>
+    <string name="message_welcome_page">"CeritaKita is a safe place to connect and share stories with others. "</string>
+    <string name="signup">SIGNUP</string>
+    <string name="title_signup_page">Create an Account</string>
+    <string name="name">Your Username</string>
+    <string name="fabUploadStoryDescription">Upload story button</string>
+    <string name="imageViewIllustrationDescription">Signup image illustration</string>
+    <string name="content_desc_image_detail_stories">image Detail Stories</string>
+    <string name="content_description_previewimage">previewImage</string>
+    <string name="description">Enter stories</string>
+    <string name="cameraChoose">Camera</string>
+    <string name="galleryChoose">Gallery</string>
+    <string name="logout">Logout</string>
+    <string name="text_upload">UPLOAD</string>
+</resources>
